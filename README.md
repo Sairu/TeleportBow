@@ -1,7 +1,7 @@
 # TeleportBow
 TeleportBow is a Java Plugin for minecraft server's 
 
-## With this Plugin you can Teleport for every were without
+## With this Plugin you can Teleport for every were without trouble
 
 ![Animacao](https://user-images.githubusercontent.com/81401104/133355736-4b8f221f-0a6f-40a5-b672-78046a51dbaa.gif)
 
