@@ -1,0 +1,8 @@
+name: TeleportBow
+main: com.sairu.teleportbow.Main
+version: 1.0
+commands:
+  bow:
+    description: Give player a bow
+    usage: /bow
+    permission:
