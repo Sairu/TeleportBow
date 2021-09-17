@@ -3,7 +3,7 @@ TeleportBow is a Java Plugin for minecraft server's
 
 Minecraft version: 1.17.1
 
-#### For Download the Plugin click <a href="https://dev.bukkit.org/projects/teleportbow-1-17-1">Here</a>
+#### For Download the Plugin click <a href="https://www.spigotmc.org/resources/teleportbow.96274/">Here</a>
 
 ## With this Plugin you can Teleport for every were without trouble
 
