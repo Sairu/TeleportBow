@@ -15,4 +15,4 @@ Minecraft version: 1.17.1
 
 >/bow
 
-              You will get a bow and 32 Arrows
+<i>You will get a bow and 32 Arrows</i>
